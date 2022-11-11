@@ -25,24 +25,20 @@
 - beautifull design. 2
 - responsive website. 3
 
-
 ## Screenshots
-![Example screenshot of home page](./images/Capture d’écran (18).png)
-![Example screenshot of home page](./images/Capture d’écran (19).png)
-![Example screenshot of home page](./images/Capture d’écran (20).png)
-![Example screenshot of home page](./images/Capture d’écran (21).png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-`write-your-code-here`
+- ![Capture d’écran (18)](https://user-images.githubusercontent.com/110940496/201431542-ce5cd3a7-a1f7-4d15-ae97-60be30379072.png)
+- ![Example screenshot of home page](./images/Capture d’écran (18).png)
+- ![Example screenshot of home page](./images/Capture d’écran (19).png)
+- ![Example screenshot of home page](./images/Capture d’écran (20).png)
+- ![Example screenshot of home page](./images/Capture d’écran (21).png)
+- <!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Project Status
 Project is: _in progress_
 
-
 ## Acknowledgements
 - This project was inspired from wordpress.
-
 
 ## Contact
 Created by [@khattabi_rachid]
