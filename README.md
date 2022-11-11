@@ -27,10 +27,10 @@
 
 ## Screenshots
 - ![Capture d’écran (18)](https://user-images.githubusercontent.com/110940496/201431542-ce5cd3a7-a1f7-4d15-ae97-60be30379072.png)
-- ![Example screenshot of home page](./images/Capture d’écran (18).png)
-- ![Example screenshot of home page](./images/Capture d’écran (19).png)
-- ![Example screenshot of home page](./images/Capture d’écran (20).png)
-- ![Example screenshot of home page](./images/Capture d’écran (21).png)
+- ![Capture d’écran (19)](https://user-images.githubusercontent.com/110940496/201431834-c06024f6-923a-4604-b7c2-6645ffe492da.png)
+- ![Capture d’écran (20)](https://user-images.githubusercontent.com/110940496/201431866-b2b02f0f-091f-43da-8199-eef489000102.png)
+- ![Capture d’écran (22)](https://user-images.githubusercontent.com/110940496/201431932-32e5a94b-b9f0-4d64-abb3-6beca17c255d.png)
+
 - <!-- If you have screenshots you'd like to share, include them here. -->
 
 
