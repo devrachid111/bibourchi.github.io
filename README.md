@@ -27,10 +27,10 @@
 
 
 ## Screenshots
-![Example screenshot of home page](./img/Capture d’écran (18).png)
-![Example screenshot of home page](./img/Capture d’écran (19).png)
-![Example screenshot of home page](./img/Capture d’écran (20).png)
-![Example screenshot of home page](./img/Capture d’écran (21).png)
+![Example screenshot of home page](./images/Capture d’écran (18).png)
+![Example screenshot of home page](./images/Capture d’écran (19).png)
+![Example screenshot of home page](./images/Capture d’écran (20).png)
+![Example screenshot of home page](./images/Capture d’écran (21).png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 `write-your-code-here`
@@ -45,4 +45,4 @@ Project is: _in progress_
 
 
 ## Contact
-Created by [@khattabi_rachid
+Created by [@khattabi_rachid]
